@@ -1,0 +1,2 @@
+# Keszletnyilvantarto
+Készletnyilvántartó/Raktármenedzsment
